@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Abdelrahman-Ashraf22.github.io/Weather-App/static/css/main.e3a14822.css",
+    "main.js": "/Abdelrahman-Ashraf22.github.io/Weather-App/static/js/main.0c10d5ec.js",
+    "static/js/787.82cdd233.chunk.js": "/Abdelrahman-Ashraf22.github.io/Weather-App/static/js/787.82cdd233.chunk.js",
+    "static/media/cloud.png": "/Abdelrahman-Ashraf22.github.io/Weather-App/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Abdelrahman-Ashraf22.github.io/Weather-App/index.html",
+    "main.e3a14822.css.map": "/Abdelrahman-Ashraf22.github.io/Weather-App/static/css/main.e3a14822.css.map",
+    "main.0c10d5ec.js.map": "/Abdelrahman-Ashraf22.github.io/Weather-App/static/js/main.0c10d5ec.js.map",
+    "787.82cdd233.chunk.js.map": "/Abdelrahman-Ashraf22.github.io/Weather-App/static/js/787.82cdd233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a14822.css",
+    "static/js/main.0c10d5ec.js"
+  ]
+}

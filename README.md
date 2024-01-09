@@ -1,2 +1,2 @@
 # Weather-App
-<img src="./weather"/>
+<img src="./weather.png"/>

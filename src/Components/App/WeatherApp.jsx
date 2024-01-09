@@ -37,7 +37,6 @@ const WeatherApp = () => {
       wind.innerHTML = `${Math.round(data.wind.speed)} km/h`;
       state.innerHTML = `"${data.weather[0].main}"`;
       country.innerHTML = data.sys.country.toUpperCase();
-      // console.log(data.sys.country);
       switch (data.weather[0].icon) {
         case "01d":
         case "01n":
